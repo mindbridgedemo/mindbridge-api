@@ -1,3 +1,47 @@
-{
-  "strategies": []
-}
+[
+  {
+    "id": 1,
+    "title": "4-7-8 Breathing",
+    "tag": "Breathing",
+    "durationMinutes": 3,
+    "summary": "A paced breathing technique to reduce anxiety and promote relaxation.",
+    "details": "Sit or lie comfortably. Inhale quietly through your nose for a count of 4, hold your breath for a count of 7, then exhale completely through your mouth with a whoosh sound for a count of 8. Repeat this cycle 4 times. This pattern helps activate the parasympathetic nervous system and can reduce acute stress.",
+    "sourceUrl": "https://health.clevelandclinic.org/4-7-8-breathing"
+  },
+  {
+    "id": 2,
+    "title": "Body Scan Meditation",
+    "tag": "Mindfulness",
+    "durationMinutes": 7,
+    "summary": "A guided attention practice to notice sensations throughout the body.",
+    "details": "Find a comfortable position, sitting or lying down. Gently close your eyes and bring attention to your breath for a few moments. Then slowly move your attention from your toes up to your head, noticing sensations (warmth, tension, tingling) without judging or trying to change them. If your mind wanders, gently return to the body part you were focusing on. This practice builds non-judgmental awareness and can reduce stress.",
+    "sourceUrl": "https://www.healthline.com/health/body-scan-meditation"
+  },
+  {
+    "id": 3,
+    "title": "Thought Journaling",
+    "tag": "CBT",
+    "durationMinutes": 5,
+    "summary": "A CBT-based exercise to identify and challenge unhelpful thoughts.",
+    "details": "Write down a recent situation that triggered strong emotions. Note the automatic thoughts that came up (e.g., \"I always fail\"). Then list evidence for and against those thoughts. Finally, reframe them into a more balanced statement (e.g., \"Sometimes things don’t go as planned, but I have succeeded before\"). This helps weaken cognitive distortions over time.",
+    "sourceUrl": "https://positivepsychology.com/thought-diary/"
+  },
+  {
+    "id": 4,
+    "title": "Walking Exercise",
+    "tag": "Exercise",
+    "durationMinutes": 8,
+    "summary": "A light physical activity to boost mood and reduce stress.",
+    "details": "Choose a safe route and walk at a comfortable pace for about 15 minutes. Focus on the sensations of your feet touching the ground, the movement of your legs, and your breathing. If your mind drifts to worries, gently bring it back to the act of walking. Regular light exercise is associated with improved mood and reduced symptoms of anxiety and depression.",
+    "sourceUrl": "https://www.webmd.com/fitness-exercise/mental-benefits-of-walking"
+  },
+  {
+    "id": 5,
+    "title": "Gratitude Journaling",
+    "tag": "Journaling",
+    "durationMinutes": 5,
+    "summary": "A brief writing practice to focus on positive aspects of your day.",
+    "details": "At the end of the day, write down 3 things you feel grateful for, no matter how small (e.g., a warm drink, a supportive message, a moment of calm). Try to be specific about why each thing mattered to you. Regular gratitude practice has been linked to improved well-being and reduced depressive symptoms.",
+    "sourceUrl": "https://greatergood.berkeley.edu/article/item/how_gratitude_changes_you_and_your_brain"
+  }
+]
